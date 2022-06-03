@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on with projects involving Front-end development
 - ✨ Here are some of my personal projects
-- 📫 How to reach me: heloisacampos2009@hotmail.com
+- 📫 How to reach me: helocmp@yahoo.com.br
 
 <!---
 HeloisaFelizardo/HeloisaFelizardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
