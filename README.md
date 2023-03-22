@@ -1,5 +1,5 @@
 -   👋 Hi, I’m @HeloisaFelizardo
--   👀 I'm interested in acquiring and improving knowledge in JavaScript, React, Angular, Node.js, Git, Object Orientation, Software Engineering, Cloud Computing, Cybersecurity.
+-   👀 I'm interested in acquiring and improving knowledge in JavaScript, React, Angular, Node.js, Git, Object Orientation, Software Engineering.
 -   🌱 I’m currently a student in the web development area and I have extensive knowledge in HTML, CSS.
 -   💞️ I’m looking to collaborate on with projects involving Front-end development
 -   ✨ See soon... https://HeloisaFelizardo.github.io/HeloisaFelizardo 
