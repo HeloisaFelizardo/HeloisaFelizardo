@@ -2,7 +2,7 @@
 -   👀 I'm interested in acquiring and improving knowledge in JavaScript, React, Angular, Node.js, Git, POO, Software Engineering.
 -   🌱 I’m currently a student in the web development area and I have extensive knowledge in HTML, CSS.
 -   💞️ I’m looking to collaborate on with projects involving Front-end development
--   ✨ See soon... https://HeloisaFelizardo.github.io/HeloisaFelizardo 
+-   ✨ Portifolio: https://HeloisaFelizardo.github.io
 -   📫 How to reach me: helocmp@yahoo.com.br
 
 <!---
