@@ -3,6 +3,7 @@
 -   🌱 I’m currently a student in the web development area and I have extensive knowledge in HTML, CSS.
 -   💞️ I’m looking to collaborate on with projects involving Front-end development
 -   ✨ Portifolio: https://heloisafelizardo.github.io
+-   👩🏽 LinkedIn: https://www.linkedin.com/in/heloisafelizardo
 -   📫 How to reach me: helocmp@yahoo.com.br
 
 <!---
