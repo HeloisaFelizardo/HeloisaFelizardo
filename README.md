@@ -5,7 +5,7 @@
   <li>  💞️ I’m looking to collaborate on with projects involving Front-end development</li>
   <li>✨ Portifolio: https://heloisafelizardo.github.io</li>
   <li>👩🏽 LinkedIn: https://www.linkedin.com/in/heloisafelizardo</li>
-  <li>📫 How to reach me: helocmp@yahoo.com.br</li>
+  <li>📫 How to reach me: <a href="mailto:heloisacampos2009@hotmail.com">heloisacampos2009@hotmail.com</a></li>
 </ul>
 <!---
 HeloisaFelizardo/HeloisaFelizardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
