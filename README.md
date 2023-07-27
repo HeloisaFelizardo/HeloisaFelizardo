@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @HeloisaFelizardo </h1>
+<h1>👋 Hi, I’m Heloisa Felizardo </h1>
 <ul>
   <li> 👀 I'm interested in acquiring and improving knowledge in JavaScript, Data Structures, Node.js, POO, Software Engineering.</li>
   <li> 🌱 I’m currently a student in the web development area and I have extensive knowledge in HTML, CSS.</li>
