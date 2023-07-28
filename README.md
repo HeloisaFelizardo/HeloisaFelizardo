@@ -1,4 +1,4 @@
-<h1 text-align = 'center'>👋 Hi, I’m Heloisa Felizardo </h1>
+<h1 align="center">👋 Hi, I’m Heloisa Felizardo </h1>
 <ul>
   <li> 👀 I'm interested in acquiring and improving knowledge in JavaScript, Data Structures, Node.js, POO, Software Engineering.</li>
   <li> 🎓 Studying Software Engineering at UNICSUL </li>
