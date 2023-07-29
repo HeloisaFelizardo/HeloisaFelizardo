@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I’m Heloisa Felizardo </h1>
 <ul>
-  <li> 👀 I'm interested in JavaScript, Data Structures, Node.js, POO, Software Engineering.</li>
+  <li> 👀 I'm a web development student, and I am acquiring knowledge to solve problems and create web solutions.</li>
   <li> 🎓 Studying Software Engineering at UNICSUL </li>
-  <li> 🌱 I'm a web development student, and I am acquiring knowledge to solve problems and create web solutions.</li>
+  <li> 🌱 I'm interested in JavaScript, Data Structures, Node.js, POO, Software Engineering.</li>
   <li> 💞️ I’m looking to collaborate on with projects involving Web development</li>
   <li> ✨ Portifolio: https://heloisafelizardo.github.io</li>
   <li> 👩🏽 LinkedIn: https://www.linkedin.com/in/heloisafelizardo</li>
