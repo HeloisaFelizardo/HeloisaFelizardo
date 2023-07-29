@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Heloisa Felizardo </h1>
+<h1>👋 Hi, I’m Heloisa Felizardo </h1>
 <ul>
   <li> 👀 I'm a web development student, and I am acquiring knowledge to solve problems and create web solutions.</li>
   <li> 🎓 Studying Software Engineering at UNICSUL </li>
