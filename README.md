@@ -10,5 +10,5 @@
 
 
 <div align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaFelizardo&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=16" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaFelizardo&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=16" />
 </div>
