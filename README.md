@@ -5,8 +5,6 @@
   <p> 🌱 I'm interested in JavaScript, Data Structures, Algorithms, Node, POO, Software Engineering.</p>
   <p> 💞️ I’m looking to collaborate on with projects involving Web development</p>
   <p> ✨ Portifolio: https://heloisafelizardo.github.io</p>
-  <p> 👩🏽 LinkedIn: https://www.linkedin.com/in/heloisafelizardo</p>
-  <p> 📫 How to reach me: <a href="mailto:heloisacampos2009@hotmail.com">heloisacampos2009@hotmail.com</a></p>
 
 
 <div align="center">
