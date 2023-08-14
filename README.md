@@ -11,5 +11,5 @@
 
 <div align="center">
 <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HeloisaFelizardo&show_icons=true&incluide_all_commits=true&count_private=true&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117" />
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaFelizardo&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=16" />
+<img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaFelizardo&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=16" />
 </div>
