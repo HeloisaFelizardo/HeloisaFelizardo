@@ -1,10 +1,12 @@
 <h1>👋 Hi, I’m Heloisa Felizardo </h1>
 
-  <p> 👀 I'm a web development student, and I am acquiring knowledge to solve problems and create web solutions.</p>
-  <p> 🎓 Studying Software Engineering at UNICSUL </p>
-  <p> 🌱 I'm interested in JavaScript, Data Structures, Algorithms, Node, POO, Software Engineering.</p>
-  <p> 💞️ I’m looking to collaborate on with projects involving Web development</p>
-  <p> ✨ Portifolio: https://heloisafelizardo.github.io</p>
+  <p> 
+  👀 I'm a web development student, and I am acquiring knowledge to solve problems and create web solutions.</br>
+  🎓 Studying Software Engineering at UNICSUL</br>
+  🌱 I'm interested in JavaScript, Data Structures, Algorithms, Node, POO, Software Engineering.</br>
+  💞️ I’m looking to collaborate on with projects involving Web development</br>
+  ✨ Portifolio: https://heloisafelizardo.github.io
+  </p>
 
 
 <div align="center">
