@@ -67,4 +67,4 @@
 </table>
 
 ##
-<div align="center">Feito com ❤️ por <a href="https://github.com/heloisafelizardo">Heloisa</a>.</div>
+<div align="center">Feito com ❤️ por <a href="https://heloisafelizardo.github.io">Heloisa</a>.</div>
