@@ -42,26 +42,36 @@
     </tr>
   </thead>
   <tbody align="left">
+   <tr>
+      <td>29/08/2023</td>
+      <td>Asynchronous callbacks</td>
+      <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
+      <td align="center">
+        <a href="https://www.dio.me/articles/settimeout">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr> 
+   <tr>
+      <td>28/08/2023</td>
+      <td>Hoisting & Temporal Dead Zone</td>
+      <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
+      <td align="center">
+        <a href="https://www.dio.me/articles/hoisting-temporal-dead-zone">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr> 
     <tr>
       <td>27/08/2023</td>
       <td>O que é um Closure?</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
-        <a href="https://web.dio.me/articles/o-que-e-um-closure?back=%2Fhome&page=1&order=oldest">
+        <a href="https://www.dio.me/articles/o-que-e-um-closure">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
-    </tr>  
-     <tr>
-      <td>28/08/2023</td>
-      <td>Hoisting & Temporal Dead Zone</td>
-      <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/hoisting-temporal-dead-zone?back=%2Fhome&page=1&order=oldest">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr> 
+    </tr>      
   </tbody>
   <tfoot></tfoot>
 </table>
