@@ -48,7 +48,7 @@
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
         <a href="https://www.dio.me/articles/settimeout">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
     </tr> 
