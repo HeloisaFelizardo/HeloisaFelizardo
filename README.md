@@ -1,11 +1,12 @@
-<h1>👋 Hi, I’m Heloisa Felizardo</h1> 
+<h1>👋 Hi, I’m Heloisa Felizardo</h1>
 
 📚 Sou uma estudante de desenvolvimento web e estou adquirindo conhecimento para resolver problemas e criar soluções para a web. </br>
 🎓 Atualmente, estou estudando Engenharia de Software na UNICSUL e meu interesse inclui JavaScript, Estruturas de Dados, Algoritmos, Node.js, Programação Orientada a Objetos e Engenharia de Software. </br>
 💞️ Estou buscando colaborar em projetos relacionados ao desenvolvimento web.</br>
-✨ [Portifolio](https://heloisafelizardo.github.io) 
+✨ [Portifolio](https://heloisafelizardo.github.io)
 
-[![GitHub]( https://img.shields.io/github/followers/HeloisaFelizardo?style=for-the-badge&label=follow&style=social)](https://github.com/HeloisaFelizardo/)
+[![GitHub](https://img.shields.io/github/followers/HeloisaFelizardo?style=for-the-badge&label=follow&style=social)](https://github.com/HeloisaFelizardo/)
+
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/heloisacampos2009)
@@ -42,6 +43,16 @@
     </tr>
   </thead>
   <tbody align="left">
+  <tr>
+      <td>28/08/2023</td>
+      <td>Promises</td>
+      <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
+      <td align="center">
+        <a href="https://www.dio.me/articles/introducao-as-promises-em-javascript-agendando-tarefas-futuras">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr> 
    <tr>
       <td>29/08/2023</td>
       <td>Asynchronous callbacks</td>
@@ -77,4 +88,5 @@
 </table>
 
 ##
+
 <div align="center">Feito com ❤️ por <a href="https://heloisafelizardo.github.io" target= "_blank">Heloisa</a>.</div>
