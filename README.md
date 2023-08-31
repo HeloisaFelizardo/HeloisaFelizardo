@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Heloisa Felizardo</h1>
 
 📚 Sou uma estudante de desenvolvimento web e estou adquirindo conhecimento para resolver problemas e criar soluções para a web. </br>
-🎓 Atualmente, estou estudando Engenharia de Software na UNICSUL e meu interesse inclui JavaScript, Estruturas de Dados, Algoritmos, Node.js, Programação Orientada a Objetos e Engenharia de Software. </br>
+🎓 Atualmente, estou estudando Engenharia de Software na UNICSUL e participando da Formação Full Stack no projeto [Descodificadas](https://moodle.descodificadas.com.br/?redirect=0). Meu interesse inclui JavaScript, Estruturas de Dados, Algoritmos, Node.js, Programação Orientada a Objetos e Engenharia de Software. </br>
 💞️ Estou buscando colaborar em projetos relacionados ao desenvolvimento web.</br>
 ✨ [Portifolio](https://heloisafelizardo.github.io)
 
