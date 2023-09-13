@@ -6,6 +6,11 @@
 💞️ Estou praticando meus conhecimentos em projetos relacionados ao desenvolvimento web.</br>
 ✨ [Portifolio](https://heloisafelizardo.github.io)
 
+📚 I'm a web development student and I'm acquiring knowledge to solve problems and create solutions for the web. </br>
+🎓 I am currently studying Software Engineering at [Cruzeiro do Sul University](https://www.cruzeirodosul.edu.br/) and participating in the Full Stack Training in the project [Descodedas](https://moodle.descodedas.com .br/?redirect=0). My interests include JavaScript, Data Structures, Algorithms, Object Oriented Programming, Node.js and Software Engineering in General. In the future, acquire knowledge in IoT. </br>
+💞️ I'm practicing my knowledge on projects related to web development.</br>
+✨ [Portifolio](https://heloisafelizardo.github.io)
+
 [![GitHub](https://img.shields.io/github/followers/HeloisaFelizardo?style=for-the-badge&label=follow&style=social)](https://github.com/HeloisaFelizardo/)
 
 ### Conecte-se comigo
