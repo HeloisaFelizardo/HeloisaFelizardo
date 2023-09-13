@@ -1,10 +1,4 @@
-<h1>👋 Olá, eu sou Heloisa!</h1>
-
-
-📚 Sou uma estudante de desenvolvimento web e estou adquirindo conhecimento para resolver problemas e criar soluções para a web. </br>
-🎓 Atualmente, estou estudando Engenharia de Software na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) e participando da Formação Full Stack no projeto [Descodificadas](https://moodle.descodificadas.com.br/?redirect=0). Meu interesse inclui JavaScript, Estruturas de Dados, Algoritmos, Programação Orientada a Objetos, Node.js e Engenharia de Software no Geral. Futuramente adquirir conhecimentos em IoT. </br>
-💞️ Estou praticando meus conhecimentos em projetos relacionados ao desenvolvimento web.</br>
-✨ [Portifolio](https://heloisafelizardo.github.io)
+<h1>👋Hi, I'm Heloisa!</h1>
 
 📚 I'm a web development student and I'm acquiring knowledge to solve problems and create solutions for the web. </br>
 🎓 I am currently studying Software Engineering at [Cruzeiro do Sul University](https://www.cruzeirodosul.edu.br/) and participating in the Full Stack Training in the project [Decoded](https://moodle.descodificadas.com.br/?redirect=0). My interests include JavaScript, Data Structures, Algorithms, Object Oriented Programming, Node.js and Software Engineering in General. In the future, acquire knowledge in IoT. </br>
