@@ -1,7 +1,7 @@
 <h1>👋Hi, I'm Heloisa!</h1>
 
 📚 I'm a web development student and I'm acquiring knowledge to solve problems and create solutions for the web. </br>
-🎓 I am currently studying Software Engineering at [UNICSUL](https://www.cruzeirodosul.edu.br/) and participating in the Full Stack Training in the project [Decoded](https://moodle.descodificadas.com.br/?redirect=0). My interests include JavaScript, Data Structures, Algorithms, Object Oriented Programming, Node.js and Software Engineering in General. In the future, acquire knowledge in IoT. </br>
+🎓 I am currently studying Software Engineering at [UNICSUL](https://www.cruzeirodosul.edu.br/) and participating in the Full Stack Training in the project [Decoded](https://moodle.descodificadas.com.br/?redirect=0). My interests include JavaScript, Data Structures, Algorithms, Object Oriented Programming, Mobile, Node.js and Software Engineering in General. In the future, acquire knowledge in IoT. </br>
 💞️ I'm practicing my knowledge on projects related to web development.</br>
 ✨ [Portifolio](https://heloisafelizardo.github.io)
 
