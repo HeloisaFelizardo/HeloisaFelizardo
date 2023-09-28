@@ -1,8 +1,8 @@
-<h1>👋 Hi, I’m Heloisa Felizardo</h1>
+<h1>👋Hi, I'm Heloisa!</h1>
 
-📚 Sou uma estudante de desenvolvimento web e estou adquirindo conhecimento para resolver problemas e criar soluções para a web. </br>
-🎓 Atualmente, estou estudando Engenharia de Software na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) e participando da Formação Full Stack no projeto [Descodificadas](https://moodle.descodificadas.com.br/?redirect=0). Meu interesse inclui JavaScript, Estruturas de Dados, Algoritmos, Node.js, Programação Orientada a Objetos e Engenharia de Software. </br>
-💞️ Estou praticando os conhecimentos adquiridos em projetos relacionados ao desenvolvimento web.</br>
+📚 I'm a web development student and I'm acquiring knowledge to solve problems and create solutions for the web. </br>
+🎓 I am currently studying Software Engineering at [UNICSUL](https://www.cruzeirodosul.edu.br/) and participating in the Full Stack Training in the project [Decoded](https://moodle.descodificadas.com.br/?redirect=0). My interests include JavaScript, Data Structures, Algorithms, Object Oriented Programming, Mobile, Node.js and Software Engineering in General. In the future, acquire knowledge in IoT. </br>
+💞️ I'm practicing my knowledge on projects related to web development.</br>
 ✨ [Portifolio](https://heloisafelizardo.github.io)
 
 [![GitHub](https://img.shields.io/github/followers/HeloisaFelizardo?style=for-the-badge&label=follow&style=social)](https://github.com/HeloisaFelizardo/)
@@ -24,7 +24,7 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heloisafelizardo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heloisafelizardo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heloisafelizardo&layout=compact&langs_count=10&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
 
