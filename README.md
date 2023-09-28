@@ -48,7 +48,7 @@
       <td>Flutter - Principais Conceitos</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/flutter.png" /></td>
       <td align="center">
-        <a href="https://www.dio.me/articles/flutter-principais-conceitos">
+        <a href="https://www.dio.me/articles/flutter-principais-conceitos" target='_blank'>
            <img align="center" alt="Flutter - Principais Conceitos" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -58,7 +58,7 @@
       <td>Introdução à Promises</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
-        <a href="https://www.dio.me/articles/introducao-as-promises-em-javascript-agendando-tarefas-futuras">
+        <a href="https://www.dio.me/articles/introducao-as-promises-em-javascript-agendando-tarefas-futuras" target='_blank'>
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -68,7 +68,7 @@
       <td>Asynchronous callbacks</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
-        <a href="https://www.dio.me/articles/settimeout">
+        <a href="https://www.dio.me/articles/settimeout" target='_blank'>
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
@@ -78,7 +78,7 @@
       <td>Hoisting & Temporal Dead Zone</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
-        <a href="https://www.dio.me/articles/hoisting-temporal-dead-zone">
+        <a href="https://www.dio.me/articles/hoisting-temporal-dead-zone" target='_blank'>
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -88,7 +88,7 @@
       <td>O que é um Closure?</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
-        <a href="https://www.dio.me/articles/o-que-e-um-closure">
+        <a href="https://www.dio.me/articles/o-que-e-um-closure" target='_blank'>
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
