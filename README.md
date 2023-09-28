@@ -48,7 +48,7 @@
       <td>Flutter - Principais Conceitos</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/flutter.png" /></td>
       <td align="center">
-        <a href="https://www.dio.me/articles/flutter-principais-conceitoss">
+        <a href="https://www.dio.me/articles/flutter-principais-conceitos">
            <img align="center" alt="Flutter - Principais Conceitos" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
         </a>
       </td>
