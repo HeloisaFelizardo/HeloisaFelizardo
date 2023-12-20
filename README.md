@@ -18,6 +18,7 @@
 [![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://www.w3schools.com/html/default.asp)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://www.w3schools.com/css/default.asp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)](https://developer.mozilla.org/pt-BR/docs/web/javascript/guide/introduction)
+[![Java](https://github.com/HeloisaFelizardo/heloisafelizardo.github.io/blob/main/data/imgs/java.png)](https://developer.mozilla.org/pt-BR/docs/web/javascript/guide/introduction)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
