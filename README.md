@@ -1,5 +1,5 @@
 <h1>👋 Olá, sou Heloísa!</h1>
-📚 Estou imersa no mundo do desenvolvimento web, buscando constantemente conhecimento para desvendar desafios e construir soluções inovadoras para a web.</br>
+📚 Estou imersa no mundo do desenvolvimento de Software, buscando constantemente conhecimento para desvendar desafios e construir soluções inovadoras para a web.</br>
 🎓 Atualmente, estou me aprimorando em Engenharia de Software na UNICSUL, enquanto participo do Programa Formação Web do projeto Descodificadas. Além disso, estou participando do bootcamp Avanti Full Stack, explorando a constução de uma aplicação ponta a ponta. </br>
 💞️ Minha paixão abrange o universo do desenvolvimento Web, assim como a fascinante Engenharia de Software. E tenho planos ambiciosos de expandir meus horizontes para o excitante mundo da IoT.</br>
 ✨ Portifolio (https://heloisafelizardo.github.io) Dê uma espiada em meu Portfólio para descobrir mais sobre minhas aventuras no mundo digital!
