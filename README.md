@@ -36,7 +36,7 @@
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=heloisafelizardo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/heloisafelizardo/dio-lab-open-source)
 
-### Meus Principais Artigos na DIO
+## Meus Principais Artigos na DIO
 
 <table>
   <thead>
