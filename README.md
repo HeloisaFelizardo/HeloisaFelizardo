@@ -4,7 +4,9 @@
 💞️ Minha paixão abrange o universo do desenvolvimento de aplicações Web, assim como a fascinante Engenharia de Software.</br>
 ✨ Portifolio (https://heloisafelizardo.github.io) Dê uma espiada em meu GitHub para descobrir mais sobre minhas aventuras no mundo digital!
 
-<div align='center'>
+<br />
+
+<img src="lineBar.png" width="100%" height="8px"/>
 <div align="center">
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heloisafelizardo&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
@@ -12,12 +14,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisafelizardo&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
 </div>
-
-</div>
-
 <img src="lineBar.png" width="100%" height="8px"/>
 
-<div><br />
+<br />
 
 ## My Stack
 
