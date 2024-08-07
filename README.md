@@ -2,7 +2,7 @@
 📚 Estou imersa no mundo do desenvolvimento de Software, buscando constantemente conhecimento para desvendar desafios e construir soluções inovadoras para a web.</br>
 🎓 Atualmente, estou me aprimorando em Engenharia de Software na UNICSUL.</br>
 💞️ Minha paixão abrange o universo do desenvolvimento de aplicações Web, assim como a fascinante Engenharia de Software.</br>
-✨ Portifolio (https://heloisafelizardo.github.io) Dê uma espiada em meu GitHub para descobrir mais sobre minhas aventuras no mundo digital!
+✨ Dê uma espiada em meu GitHub para descobrir mais sobre minhas aventuras no mundo digital!
 
 <br />
 <br />
