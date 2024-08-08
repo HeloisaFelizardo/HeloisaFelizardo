@@ -23,7 +23,7 @@
 
 ## My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,js,html,css,sass,vite,react,express,prisma,npm,figma,bootstrap,docker,java,spring,gradle,maven,postgres,mongodb,git,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,js,html,css,sass,vite,react,express,prisma,npm,figma,bootstrap,docker,java,spring,gradle,maven,postgres,mongodb,git,github,notion,postman,)](https://skillicons.dev)
 
 <br />
 
