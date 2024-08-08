@@ -1,8 +1,10 @@
 <h1>Software Developer • Software Enginer </h1>
-📚 Estou imersa no mundo do desenvolvimento de Software, buscando constantemente conhecimento para desvendar desafios e construir soluções inovadoras para a web.</br>
-🎓 Atualmente, estou me aprimorando em Engenharia de Software na UNICSUL.</br>
-💞️ Minha paixão abrange o universo do desenvolvimento de aplicações Web, assim como a fascinante Engenharia de Software.</br>
-✨ Dê uma espiada em meu GitHub para descobrir mais sobre minhas aventuras no mundo digital!
+
+📚 I am immersed in the world of software development, constantly seeking knowledge to unravel challenges and build innovative solutions for the web.</br>
+🎓 Currently, I am enhancing my skills in Software Engineering at UNICSUL.</br>
+💞️ My passion spans the realm of web application development as well as the fascinating field of Software Engineering.</br>
+✨ Take a peek at my GitHub to discover more about my adventures in the digital world!
+❤️ I love Java!
 
 <br />
 <br />
@@ -25,18 +27,18 @@
 
 <br />
 
-## Conecte-se comigo
+## Connect with me
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/heloisacampos2009)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/heloisafelizardo/)
 
 <br />
 
-## Meus Principais Desafios de Projeto DIO
+## My Top DIO Project Challenges
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=heloisafelizardo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/heloisafelizardo/dio-lab-open-source)
 
-## Meus Principais Artigos na DIO
+## My Top Articles on DIO
 
 <table>
   <thead>
@@ -50,7 +52,7 @@
   <tbody align="left">
   <tr>
       <td>28/09/2023</td>
-      <td>Flutter - Principais Conceitos</td>
+      <td>Flutter - Key Concepts</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/flutter.png" /></td>
       <td align="center">
         <a href="https://www.dio.me/articles/flutter-principais-conceitos" target='_blank'>
@@ -60,7 +62,7 @@
     </tr>
   <tr>
       <td>29/08/2023</td>
-      <td>Introdução à Promises</td>
+      <td>Introduction to Promises</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
         <a href="https://www.dio.me/articles/introducao-as-promises-em-javascript-agendando-tarefas-futuras" target='_blank'>
@@ -90,7 +92,7 @@
     </tr> 
     <tr>
       <td>27/08/2023</td>
-      <td>O que é um Closure?</td>
+      <td>What is a Closure?</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/js.png" /></td>
       <td align="center">
         <a href="https://www.dio.me/articles/o-que-e-um-closure" target='_blank'>
@@ -104,4 +106,4 @@
 
 ##
 
-<div align="center">Feito com ❤️ por <a href="https://heloisafelizardo.github.io" target= "_blank">Heloisa</a>.</div>
+<div align="center">Made with ❤️ by <a href="https://heloisafelizardo.github.io" target= "_blank">Heloisa</a>.</div>
