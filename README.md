@@ -3,7 +3,7 @@
 📚 I am immersed in the world of software development, constantly seeking knowledge to unravel challenges and build innovative solutions for the web.</br>
 🎓 Currently, I am enhancing my skills in Software Engineering at UNICSUL.</br>
 💞️ My passion spans the realm of web application development as well as the fascinating field of Software Engineering.</br>
-✨ Take a peek at my GitHub to discover more about my adventures in the digital world!
+✨ Take a peek at my GitHub to discover more about my adventures in the digital world!</br>
 ❤️ I love Java!
 
 <br />
