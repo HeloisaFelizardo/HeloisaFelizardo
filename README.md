@@ -52,7 +52,7 @@
   <tbody align="left">
    <tr>
       <td>17/02/2025</td>
-      <td>Collections Java</td>
+      <td>Java Collections</td>
       <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/java.png" /></td>
       <td align="center">
         <a href="https://web.dio.me/articles/collections-em-java-conceitos-e-principais-topicos" target='_blank'>
