@@ -50,6 +50,16 @@
     </tr>
   </thead>
   <tbody align="left">
+   <tr>
+      <td>17/02/2025</td>
+      <td>Collections Java</td>
+      <td align ="center"><img align="center" width="25px" src="https://raw.githubusercontent.com/HeloisaFelizardo/heloisafelizardo.github.io/main/data/imgs/java.png" /></td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/collections-em-java-conceitos-e-principais-topicos" target='_blank'>
+           <img align="center" alt="Flutter - Principais Conceitos" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>05/11/2024</td>
       <td>Spring Boot, Spring Web, Spring JPA</td>
