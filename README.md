@@ -1,14 +1,18 @@
 <h1>Software Developer • Software Enginer </h1>
 
-📚 I am immersed in the world of software development, constantly seeking knowledge to unravel challenges and build innovative solutions for the web.</br>
-🎓 Currently, I am enhancing my skills in Software Engineering at UNICSUL.</br>
-💞️ My passion spans the realm of web application development as well as the fascinating field of Software Engineering.</br>
-✨ Take a peek at my GitHub to discover more about my adventures in the digital world!</br>
-❤️ I love Java!
+🚀 Aspiring Software Engineer | Java & JavaScript enthusiast  
+🎓 Studying Software Engineering at UNICSUL, exploring backend, APIs, and software architecture  
+💻 Building full-stack projects, working with databases, and bringing code to life  
+🌱 Curious and proactive, always learning, solving problems, and experimenting with innovative solutions  
+✨ Check out my repositories to explore my projects and growth as a developer  
+💡 Fun fact: I believe clean code is a form of art!
 
-<br />
-<br />
-<br />
+🚀 Aspirante a Engenheira de Software | Entusiasta de Java & JavaScript  
+🎓 Estudante de Engenharia de Software na UNICSUL, explorando backend, APIs e arquitetura de software  
+💻 Desenvolvendo projetos full-stack, trabalhando com bancos de dados e dando vida ao código  
+🌱 Curiosa e proativa, sempre aprendendo, resolvendo problemas e experimentando soluções inovadoras  
+✨ Confira meus repositórios para conhecer meus projetos e evolução como desenvolvedora  
+💡 Curiosidade: acredito que código limpo é uma forma de arte!
 
 <div align="center">
 
